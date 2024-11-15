@@ -1,0 +1,15 @@
+Metadata-Version: 2.0
+Name: linear-regression
+Version: 0.1
+Summary: Least squares linear regression. y = mx + b or y = mx (i.e. 0 intercept)
+Home-page: http://github.com/drosenman/linear_regression
+Author: Dave Rosenman
+Author-email: rosenmd1@tcnj.edu
+License: MIT
+Platform: UNKNOWN
+Requires-Dist: numpy
+Requires-Dist: pandas
+
+UNKNOWN
+
+
